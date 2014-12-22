@@ -1,0 +1,1 @@
+xjc -dtd -d generatedsrc -p lt.kvitai kvitai.dtd
